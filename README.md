@@ -8,7 +8,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ## Enabling Plugins (zsh-autosuggestions & zsh-syntax-highlighting)
  - Download zsh-autosuggestions by
  
- `git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions`
+ ```git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions```
  
  - Download zsh-syntax-highlighting by
  

@@ -20,9 +20,16 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
  - `nano ~/.zshrc` find `plugins=(git)`
  
+ ```
+ nano ~/.zshrc
+ ```
+ 
  - Append `zsh-autosuggestions & zsh-syntax-highlighting` to  `plugins()` like this 
  
  `plugins=(git zsh-autosuggestions zsh-syntax-highlighting)`
+ ```
+ zsh-autosuggestions zsh-syntax-highlighting
+ ```
  
  - Reopen terminal
 

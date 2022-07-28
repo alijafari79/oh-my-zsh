@@ -1,6 +1,6 @@
 # Oh my zsh.
 
-## Install with curl
+## Download & Install :
 ```
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
 sh install.sh

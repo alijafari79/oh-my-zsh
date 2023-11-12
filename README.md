@@ -1,6 +1,12 @@
 # Oh my zsh.
 
-## Download & Install :
+## Prerequisites:
+
+```
+sudo apt install git zsh
+```
+
+## Download & Install:
 ```
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh && sh install.sh
 ```
